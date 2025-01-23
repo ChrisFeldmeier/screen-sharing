@@ -27,7 +27,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                         </Link>
                     </footer>
                 </main>
-                <Clarity />
                 <Toaster />
             </body>
         </html>
